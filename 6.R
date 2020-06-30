@@ -1,5 +1,3 @@
-# A)
-
 library(readxl)
 library(dplyr)
 library(caret)
